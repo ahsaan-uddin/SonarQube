@@ -1,3 +1,4 @@
+# SonarQube
 SonarQube is an open-source platform that provides static code analysis and code quality management. It is designed to help developers and development teams identify and fix code issues early in the software development lifecycle. SonarQube analyzes source code for bugs, vulnerabilities, code smells, and code duplications, and provides detailed reports with actionable insights.
 
 #### Click Below to watch the video Tutorial
@@ -19,7 +20,6 @@ Here are some key features of SonarQube:
 
 By using SonarQube, development teams can proactively identify and address code issues, improve code maintainability, enhance security, and ensure adherence to coding standards. It helps foster a culture of quality within development teams and promotes the delivery of robust and reliable software.
 ```
-
 
 --- Docker Installation ---
 
@@ -155,7 +155,7 @@ Here's the POM format with the added items for enabling code coverage with JaCoC
 
 Make sure to include this code snippet within the `<project>` tags of your existing POM file, and adjust any other project-specific configurations as needed.
 
-### Jenkins pipeline to run SOnar analysis
+### Jenkins pipeline to run Sonar analysis
 
 ```powershell
 pipeline {
