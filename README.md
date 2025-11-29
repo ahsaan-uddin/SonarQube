@@ -1,7 +1,7 @@
 SonarQube is an open-source platform that provides static code analysis and code quality management. It is designed to help developers and development teams identify and fix code issues early in the software development lifecycle. SonarQube analyzes source code for bugs, vulnerabilities, code smells, and code duplications, and provides detailed reports with actionable insights.
 
 #### Click Below to watch the video Tutorial
-[![Watch the video]](https://www.youtube.com/watch?v=adeZbnxFhak)
+[[Watch the video]](https://www.youtube.com/watch?v=adeZbnxFhak)
 
 Here are some key features of SonarQube:
 
