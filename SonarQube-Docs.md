@@ -4,26 +4,26 @@
 
 # 🧭 **Table of Contents**
 
-1. [What is SonarQube?](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#what-is-sonarqube)
-2. [Why SonarQube?](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#why-sonarqube)
-3. [Key Features](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#key-features)
-4. [SonarQube Architecture](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#sonarqube-architecture)
-5. [Supported Languages](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#supported-languages)
-6. [Core Concepts](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#core-concepts)
+1. [What is SonarQube?](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A3-what-is-sonarqube)
+2. [Why SonarQube?](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#2%EF%B8%8F%E2%83%A3-why-sonarqube)
+3. [Key Features](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#3%EF%B8%8F%E2%83%A3-key-features)
+4. [SonarQube Architecture](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#4%EF%B8%8F%E2%83%A3-sonarqube-architecture)
+5. [Supported Languages](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#5%EF%B8%8F%E2%83%A3-supported-languages)
+6. [Core Concepts](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#6%EF%B8%8F%E2%83%A3-core-concepts)
     - Bugs
     - Vulnerabilities
     - Code Smells
     - Coverage
     - Duplications
-7. [Quality Profiles](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#quality-profiles)
-8. [Quality Gates](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#quality-gates)
-9. [Installing SonarQube](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#installing-sonarqube)
-10. [SonarQube Scanners](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#sonarqube-scanners)
-11. [Running Analysis](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#running-analysis)
-12. [Integrations (GitHub, GitLab, Jenkins, Azure)](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#integrations)
-13. [SonarQube in CI/CD Pipelines](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#sonarqube-in-cicd)
-14. [Best Practices for DevOps](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#best-practices)
-15. [Troubleshooting & Common Issues](https://chatgpt.com/c/692734fa-0fd8-8324-b88b-9dbb5bbba5fe#troubleshooting)
+7. [Quality Profiles](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#7%EF%B8%8F%E2%83%A3-quality-profiles)
+8. [Quality Gates](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#8%EF%B8%8F%E2%83%A3-quality-gates)
+9. [Installing SonarQube](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#9%EF%B8%8F%E2%83%A3-installing-sonarqube)
+10. [SonarQube Scanners](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#-sonarqube-scanners)
+11. [Running Analysis](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A31%EF%B8%8F%E2%83%A3-running-analysis)
+12. [Integrations (GitHub, GitLab, Jenkins, Azure)](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A32%EF%B8%8F%E2%83%A3-integrations)
+13. [SonarQube in CI/CD Pipelines](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A33%EF%B8%8F%E2%83%A3-sonarqube-in-cicd)
+14. [Best Practices for DevOps](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A34%EF%B8%8F%E2%83%A3-best-practices-for-devops)
+15. [Troubleshooting & Common Issues](https://github.com/ahsaan-uddin/SonarQube/blob/main/SonarQube-Docs.md#1%EF%B8%8F%E2%83%A35%EF%B8%8F%E2%83%A3-troubleshooting)
 
 ---
 
